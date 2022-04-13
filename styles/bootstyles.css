@@ -1,0 +1,57 @@
+.linkedin {
+  color: red;
+  text-decoration: underline;
+}
+
+.tableautop {
+    color: black;
+    
+}
+
+.bodydiv {
+    font-family: sans-serif
+}
+
+.mainpagediv {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 80px;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding-left: 140px;
+}
+
+.headerdiv {
+    position: fixed;
+    top: 0px;
+    left: 350px;
+    right: 0px;
+    height: 80px;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding-right: 140px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.tabtextcenter {
+    text-align: center !important;
+}
+
+.tabsize {
+    resize: both;
+    height: 100px;
+    width: 100px;
+}
+
+.backcolor {
+    background-color: black
+}

@@ -1,0 +1,43 @@
+.aboutmepadding {
+    padding-top: 4px;
+}
+
+.edubackground  {
+  padding-top: 5rem;
+  background-color: lightgray;
+}
+
+.blacktext {
+  --bs-text-opacity: 1;
+  color: black !important;
+}
+
+.linkedin {
+  color: red;
+  text-decoration: underline;
+}
+    
+}
+
+.linkongray {
+    color: black
+}
+
+.livelife {
+    font-family: broadway;
+    font-size: 50px;
+}
+
+.secthead {
+    font-family: coopersblack;
+    font-size: 50px;
+}
+
+.skillhead {
+    font-family: coopersblack;
+    font-size: 40px;
+}
+
+.edutext {
+    font-size: 20px;
+}
